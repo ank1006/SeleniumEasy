@@ -1,0 +1,2 @@
+# SeleniumEasy
+For Selenium practice
